@@ -1,0 +1,11 @@
+# githubAmir
+Host amirlog
+   HostName github.com
+   User git
+   IdentityFile ~/.ssh/id_rsa_amir
+
+# githubWork
+Host work
+   HostName github.com
+   User git
+   IdentityFile ~/.ssh/id_rsa_work
